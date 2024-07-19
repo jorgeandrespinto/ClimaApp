@@ -2,10 +2,8 @@
 //  SceneDelegate.swift
 //  Clima
 //
-//  Created by Angela Yu on 01/09/2019.
-//  Copyright © 2019 App Brewery. All rights reserved.
+//  Created by Jorge Pinto on 8/28/23.
 //
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
